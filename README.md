@@ -245,5 +245,7 @@ This gives a public link like `https://abc123.gradio.live` that anyone can acces
 ## Author
 
 Shamili Yanamala
+
 B.Tech Computer Science and Engineering
+
 IIT Hyderabad
