@@ -1,0 +1,14 @@
+# Large model files — too big for GitHub
+tokenizer/pytorch_model.bin
+trained_model/
+
+# Regeneratable data
+data/tokenized_data.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+.virtual_documents/
