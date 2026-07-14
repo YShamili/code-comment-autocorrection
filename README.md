@@ -73,8 +73,6 @@ Rule-based parser handles:
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 autocorrect_comments/
 │
